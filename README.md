@@ -164,7 +164,4 @@ Airbnb pricing across Indian metro cities is influenced by a **combination of st
 Location dominates pricing decisions, while amenities, ratings, and capacity contribute incrementally.  
 Understanding these dynamics enables **better decision-making for both guests and hosts**.
 
----
-
-## 📁 Repository Structure
 
