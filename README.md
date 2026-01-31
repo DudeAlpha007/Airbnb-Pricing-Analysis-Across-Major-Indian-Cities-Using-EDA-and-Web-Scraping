@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Airbnb pricing often appears inconsistent and confusing to users. Listings with similar size, amenities, and ratings can differ drastically in price — even within the same city.
 
@@ -17,7 +17,7 @@ The analysis focuses on answering **whether price differences are driven by loca
 
 ---
 
-## 🎯 Problem Context
+## Problem Context
 
 A working professional planning a short stay in cities like Mumbai or Hyderabad faces:
 - Hundreds of Airbnb listings
@@ -32,7 +32,7 @@ This project addresses **both guest and host perspectives**.
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 - Is paying more on Airbnb actually worth it?
 - Does location significantly impact pricing?
@@ -43,7 +43,7 @@ This project addresses **both guest and host perspectives**.
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 - **Source:** Airbnb website (web scraped)
 - **Cities Covered:**  
@@ -70,7 +70,7 @@ This project addresses **both guest and host perspectives**.
 
 ---
 
-## 🛠️ Data Preprocessing
+## Data Preprocessing
 
 - Converted multi-day weekday prices into **normalized per-night prices**
 - Handled structurally missing values (ratings, reviews)
@@ -81,7 +81,7 @@ This project addresses **both guest and host perspectives**.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Univariate Analysis
 - Price distribution (normalized)
@@ -102,7 +102,7 @@ This project addresses **both guest and host perspectives**.
 
 ---
 
-## 🧪 Hypothesis Testing
+## Hypothesis Testing
 
 | Hypothesis | Test Used | Result |
 |----------|---------|--------|
@@ -117,7 +117,7 @@ Statistical significance does not always imply practical importance. Effect size
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 - Airbnb pricing is **not random**
 - **Location is the strongest pricing driver**
@@ -129,7 +129,7 @@ Statistical significance does not always imply practical importance. Effect size
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 ### For Guests
 - Focus on **median prices**, not averages
@@ -146,7 +146,7 @@ Statistical significance does not always imply practical importance. Effect size
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 - Unstructured and inconsistent web data
 - Structurally missing ratings and reviews
@@ -158,10 +158,11 @@ Statistical significance does not always imply practical importance. Effect size
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 Airbnb pricing across Indian metro cities is influenced by a **combination of structural, geographic, and demand-based factors**.  
 Location dominates pricing decisions, while amenities, ratings, and capacity contribute incrementally.  
 Understanding these dynamics enables **better decision-making for both guests and hosts**.
 
-
+## Author
+Surya Teja Yaddanapudi
